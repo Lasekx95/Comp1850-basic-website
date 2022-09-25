@@ -1,0 +1,36 @@
+table{
+    border-style:solid;
+    border-width:1px;
+    width:50%;
+}
+td, th{
+    border-style:solid;
+    border-width:1px;
+}
+
+/*
+basic horizontal and vertical 
+alignment style rules.		
+*/
+.right_align{
+    text-align:right;
+}
+.top_align{
+    vertical-align:top;
+}
+
+h1 {
+    font-family: tahoma;
+  }
+
+h2 {
+    font-family: tahoma;
+  }
+
+h3 {
+    font-family: tahoma;
+  }
+
+td {
+    font-family: 'Lucida Sans';
+}
